@@ -15,3 +15,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 Greating a new branch is quick---written in branch dev
+Creating a new branch is quick---written in branch dev2
