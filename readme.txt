@@ -28,3 +28,11 @@ Do some development in branch master and branch dev1---both branch modify
 //
 
 Do some development in branch dev2---both branch dev2 modify
+
+Do someting in dev3 before fix bug-101--in branch dev3
+
+Do someting /*more1*/ in dev3 before fix bug-101--in branch dev3
+
+Do someting /*mor2*/ in dev3 before fix bug-101--in branch dev3
+
+Do someting /*more3*/ in dev3 before fix bug-101--in branch dev3
