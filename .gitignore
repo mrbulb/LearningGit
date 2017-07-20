@@ -1,2 +1,3 @@
 # ignore .s file
 *.s
+*.orig
