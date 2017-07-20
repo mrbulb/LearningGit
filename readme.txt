@@ -17,3 +17,4 @@ Git tracks changes of files.
 Greating a new branch is quick---written in branch dev
 Creating a New branch is quick & simple---merge branch master and branch feature1
 
+Test Fast Forward----in branch TEST-FAST-FORWARD
