@@ -35,7 +35,7 @@ Do someting /*more1*/ in dev3 before fix bug-101--in branch dev3
 
 Do someting /*mor2*/ in dev3 before fix bug-101--in branch dev3
 
-Do someting /*more3*/ in dev3 before fix bug-101--in branch dev3, I change in LearningGit part
+Do someting /*more3*/ in dev3 before fix bug-101--I change in dev3 in both Learing part and LearningGit part.
 
 
 add /usr/bin/env
