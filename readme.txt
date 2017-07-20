@@ -21,7 +21,11 @@ Test Fast Forward----in branch TEST-FAST-FORWARD
 
 Test NO Fast Forward----in branch TEST-NO-FAST-FORWARD
 
-Do some development in branch master and branch dev1---both branch modify//haha, I also change this line in branch dev2
+//I fix bug in this part
+
+Do some development in branch master and branch dev1---both branch modify
+
+//
 
 Do some development in branch dev2---both branch dev2 modify
 
