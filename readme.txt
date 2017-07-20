@@ -35,4 +35,4 @@ Do someting /*more1*/ in dev3 before fix bug-101--in branch dev3
 
 Do someting /*mor2*/ in dev3 before fix bug-101--in branch dev3
 
-Do someting /*more3*/ in dev3 before fix bug-101--in branch dev3
+Do someting /*more3*/ in dev3 before fix bug-101--i want to change in Learning
